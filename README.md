@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlpHatipoglu
+- 👋 Hi, I’m @Yigitalp Hatipoglu
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning python
 - 📫 How to reach me ...
