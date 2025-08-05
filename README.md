@@ -7,14 +7,9 @@ I am a second-year computer science student at Texas Tech University, passionate
 Check out my coding portfolio!
 
 🎓 About Me
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
+ 
 
-🎓 About Me
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 
-Instagram
-TikTok
-YouTube
 🌐 Connect with me:
 LinkedIn
 
