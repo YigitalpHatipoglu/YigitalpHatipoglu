@@ -1,4 +1,4 @@
-Hi 👋 I'm Erik Cupsa
+Hi 👋 I'm Yigitalp Hatipoglu
 💫 About Me:
 I am a second-year computer science student at Texas Tech University, passionate about exploring the realms of coding, machine learning, and building applications.
 🚀 What I'm Up To
